@@ -8,7 +8,7 @@ ConcreteCommand: Implementaciones concretas de comandos para cada tipo de formul
 Invoker: Clase que invoca los comandos y maneja las solicitudes de procesamiento de formularios.
 Receiver: Clases que representan los diferentes sujetos (almacén, clientes, proveedores, empleados, etc.) responsables de procesar las respuestas generadas por los comandos.
 
-https://github.com/arevalo8/ejerciciosDSS/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.png
+https://raw.githubusercontent.com/arevalo8/ejerciciosDSS/master/ImagenV1.png
 
 
 (b) Diagrama de secuencia:
